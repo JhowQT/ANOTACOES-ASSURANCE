@@ -11,6 +11,8 @@ Conhecer o negocio
 ## ITIL, COBIT, CMMI, PMBOK/AGILE, SIX/SIGMA e ISO/SEC 2000
 
 ### COBIT
+
+---> conjuntos de regras de procidemento que vai regir as regras do negocio
 {
 Atende as necessidades,
 Cobre a empresa de ponta a ponta,
@@ -23,6 +25,7 @@ governaça--> ideias
 gestão --> pessoas
 
 ### ITIL
+- operação 
 
 8 Conhecimentos do Itil
 1-Controle de chamado
@@ -46,5 +49,6 @@ Transição de Serviço: ,
 Operação de Serviço: ,
 Melhoria continua de Serviço: 
 ]
+
 
 
