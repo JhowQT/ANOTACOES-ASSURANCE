@@ -37,4 +37,14 @@ ISO 9000 padroniza a qualidade de produto de sofyware
 4. Efeciencia -> é rapido e otimizado
 5. Manutenibilidade -> é facil de modificar
 6. Portabilidade -> é facil de usar em outro ambiente
+   
+*INDICADORES DE EFICACIA*
+
+- 1:  `Adequação, Acurácia, Segurança`
+- 2: `Maturidade, Tolerancia a falhas, Recuperabilidade`
+- 3: `Inteligibilidade, Operacionalidade`
+- 4: `Comportamento em relação ao tempo, Comportamento em relação aos recursos`
+- 5: `Estabilidade`
+- 6: `Adaptabilidade, Coexistências`
+   
 
