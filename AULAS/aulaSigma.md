@@ -56,7 +56,8 @@ ________________________________________________________________________________
 
 - `Sigma(6) e a letra do alfabeto grego que definem `
 - - ``
-- ``
+- `Ouvir sempre o cliente - VOICE OF COSTUMER - VOC`
 - 
+
 
 
