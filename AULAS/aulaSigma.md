@@ -33,19 +33,30 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 ### GRAU SIGMA 
 
+- desvio padrão
 **0 a 6 e o range do sigma**
 
 **PRIORIDADE** ``
 
 ____________________________________________________________________________________________________________
 <details>
-  <summary>🔍 Clique para expandir</summary>
+  <summary>🔍 Clique para expandir detalhes de porcentagem tolaravel de DEFEITOS - DMPO </summary>
   
-  Aqui dentro você pode colocar:
-  - Texto
-  - Código
-  - Imagem
+  Defeitos por milhão de oportunidades **DMPO**:
+  - `99,000000% de perfeição`
+  - `99,9999998 % de perfeição no 6sigma`
+  - Pratica de gestão que busca melhorar a lucratividade de empresas de qualquer setor te atividade, sejam produtos ou serviços de qualquer porte.
+  - Persegue uma **META** de perfeição de produtos e processos de 3,4 por milhão (1 sigma representa 697.700 defeiros por milhão)
 </details>
+__________________________________________________________________________________________________________________
 
+### Custo da má qualidade
+
+- a escolha de ser na media e pelo financeiro
+
+- `Sigma(6) e a letra do alfabeto grego que definem `
+- - ``
+- ``
+- 
 
 
