@@ -2,9 +2,14 @@
 
 ## Gestão de Qualidade
 
+### QUAL E A TOLERANCIA DO CLIENTE
+
+Dentro da expectativa do tempo medio de entrega
+
+_________________________________________________________________________________________________
 ### DEFEITOS
 
-`**Uma falha no atendimento de uma necessidade () do cliente;**`
+`Uma falha no atendimento de uma necessidade () do cliente;`
 
 - Baixo Faturamento
 - Carne fora do ponto
@@ -25,7 +30,22 @@
 - erro em resultado de exames medicos
 - 
   
-
+________________________________________________________________________________________________________
 ### GRAU SIGMA 
 
 **0 a 6 e o range do sigma**
+
+**PRIORIDADE** ``
+
+____________________________________________________________________________________________________________
+<details>
+  <summary>🔍 Clique para expandir</summary>
+  
+  Aqui dentro você pode colocar:
+  - Texto
+  - Código
+  - Imagem
+</details>
+
+
+
