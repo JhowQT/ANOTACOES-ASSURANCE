@@ -6,6 +6,7 @@
 
 Dentro da expectativa do tempo medio de entrega
 
+- uma metologia que cuida do grau de qualidade,grau provido pelo produto e serviço, grau de medição de milhão
 _________________________________________________________________________________________________
 ### DEFEITOS
 
@@ -58,6 +59,7 @@ ________________________________________________________________________________
 - - ``
 - `Ouvir sempre o cliente - VOICE OF COSTUMER - VOC`
 - 
+
 
 
 
